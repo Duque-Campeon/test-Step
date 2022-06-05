@@ -1,0 +1,45 @@
+{
+  "agents": [
+    {"id": 0},
+    {"id": 1}
+  ],
+
+  "steps": [
+    {
+      "agentInfo": {
+        "id": 1,
+        "stepIndex": 0,
+        "positionX": 0,
+        "positionY": 0,
+        "positionZ": 0
+      }
+    },
+    {
+      "agentInfo": {
+        "id": 2,
+        "stepIndex": 0,
+        "positionX": 2,
+        "positionY": 0,
+        "positionZ": 0
+      }
+    },
+    {
+      "agentInfo": {
+        "id": 1,
+        "stepIndex": 1,
+        "positionX": 0,
+        "positionY": 0,
+        "positionZ": 5
+      }
+    },
+    {
+      "agentInfo": {
+        "id": 2,
+        "stepIndex": 1,
+        "positionX": 2,
+        "positionY": 0,
+        "positionZ": 5
+      }
+    }
+  ]
+}
